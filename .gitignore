@@ -32,3 +32,46 @@ processed/
 repo-to-text_*.txt
 node_modules
 node_modules
+node_modules
+
+# Python virtual environment
+.venv/
+venv/
+
+# Large library files
+*.dylib
+*.so
+*.dll
+
+# Large text files
+repo-to-text_*.txt
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Environment variables
+.env
+
+# IDE files
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Audio files
+*.wav
+*.mp3
+*.ogg
+*.flac
+
+# Temporary files
+*.tmp
+*.temp
