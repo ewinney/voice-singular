@@ -30,3 +30,5 @@ yarn-error.log*
 uploads/
 processed/
 repo-to-text_*.txt
+node_modules
+node_modules
